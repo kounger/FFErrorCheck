@@ -1,6 +1,6 @@
 ###VARIABLES###
 
-#Edit the variables below and run FFErrorCheck.ps1
+#Edit the variables below and run FFErrorCheck.ps1 from the same folder.
 
 #Edit this variable to set a directory as the the current working location:
 #(E.g $working_location  = "C:\Users\User\MyVideos")
