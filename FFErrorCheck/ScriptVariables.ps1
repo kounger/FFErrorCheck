@@ -59,9 +59,9 @@ $log_folder = "$PSScriptRoot\Error_Logs"
 #Example Table 3:
 
                  #Media_Files
-#$files_table = ("D:\Media_Files\FooBar.mp4"),
-#               ("D:\Media_Files\Baz.webm"  ),
-#               ("Baz.avi"                  )
+#$files_table = ("D:\Media_Files\Foo.webm"),
+#               ("D:\Media_Files\Bar.mp4" ),
+#               ("Baz.avi"                )
 
 
 $files_table = ("")
